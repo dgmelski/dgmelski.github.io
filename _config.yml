@@ -21,7 +21,7 @@
 # title: Your awesome title
 # email: invalid@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal thoughts and reflections of Dave Melski (mostly) on
+  Personal thoughts and reflections of David (Dave) Melski (mostly) on
   automated program analysis and cybersecurity.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
