@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Software Gullibility"
+title:  "My Mission: Make Software Less Gullible"
 date:   2022-11-09 15:00:00 +1300
+categories: blog
 tags:   "software vulnerabilities" "program analysis" "program hardening"
 ---
 I once heard advice to graduate students in computer science that it is
