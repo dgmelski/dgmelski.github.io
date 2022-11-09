@@ -1,8 +1,6 @@
 ---
 layout: post
 title:  "My Mission: Make Software Less Gullible"
-date:   2022-11-09 15:00:00 +1300
-categories: blog
 ---
 I once started to explain my work to a friend by asking, "well, you know how PDF
 can be malicious?" Her eyes widened to saucers and she asked in horror, "PDFs
