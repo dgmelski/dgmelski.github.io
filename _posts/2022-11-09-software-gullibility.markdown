@@ -23,16 +23,18 @@ hacker can trick vulnerable software into doing things it shouldn't.
 
 Let's imagine our hypothetical PDF reader has a vulnerability.  A hacker might
 craft a file that looks like a PDF, but instead of (or in addition to)
-information on fonts, text, pictures, layout, etc., it has data that exploits
-the vulnerability and tricks the PDF reader into doing other things that are
-unrelated to displaying a document.  Unfortunately, when software gets fooled,
-it can get fooled **hard**.  Given a sufficiently dangerous vulnerability, a
-hacker might have our PDF reader doing things it has no business doing, like
-installing backdoors to our computer or running ransomware.
+information on fonts, text, pictures, layout, etc., it has data that confuses
+the reader and tricks it into doing things that are completely unrelated to
+displaying a document.  This is commonly referred to as *exploiting the vulnerability*.
+
+Unfortunately, when software gets fooled, it can get fooled **hard**.  Given a
+sufficiently dangerous vulnerability, a hacker might have our PDF reader doing
+things it has no business doing, like installing backdoors to our computer or
+running ransomware.
 
 So, yes, PDFs can be malicious.  Images (gifs, jpegs) can be malicious.  Movie
-files (mpegs, AVIs, MOVs) can be malicious.  Software vulnerabilities are
-entirely too common.
+files (mpegs, AVIs, MOVs) can be malicious.  Most inputs to computer software
+are potentially malicious.
 
 As stated above, my research has focused on making software less gullible, that
 is, less vulnerable to expoilt by malicious inputs (images, movies, documents,
