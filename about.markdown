@@ -24,5 +24,4 @@ Of course, I will write about other topics that are of interest to me.
 
 One of my goals is to practice writing.  For the time being, I reserve the right
 to edit past posts without warning or notice.  Should I actually attact an
-audience, I'll likely change that policy.  We are a long way from that
-happening.
+audience, I'll likely change that practice.  I am a long way from an audience.
